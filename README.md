@@ -20,22 +20,10 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
 <h3 align="left">🧑‍💻  About Me</h3>
 
 ###
 
 <p align="left">Front-End Developer specializing in building scalable, high-quality web applications with a strong focus on performance, UX, and maintainable architecture.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/samuel-obeng-kydesigner/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
