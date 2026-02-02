@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Tech Stack</h1>
 
 ###
 
@@ -22,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hi, I’m Samuel Obeng</h1>
+<h1 align="center"></h1>
 
 ###
 
@@ -39,17 +37,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">Repository</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel204/samuel204/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel204/samuel204/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuel204/samuel204/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
