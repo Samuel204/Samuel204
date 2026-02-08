@@ -26,6 +26,6 @@
 
 ###
 
-<p align="left">Front-End Developer specializing in building scalable, high-quality web applications with a strong focus on performance, UX, and maintainable architecture.<br><br>- Reusable component libraries<br>- Dashboard & data-driven interfaces<br>- UX refactoring and performance optimization<br>- Agile / Scrum environments<br>- Design systems</p>
+<p align="left">Front-End Developer specializing in building scalable, high-quality web applications with a strong focus on performance, UX, and maintainable architecture.<br><br>- Reusable component libraries<br>- Dashboard & data-driven interfaces<br>- UX refactoring and performance optimization<br>- Design systems</p>
 
 ###
